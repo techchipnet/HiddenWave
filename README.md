@@ -16,8 +16,8 @@ cd HiddenWave
 ## Uses
 <p>Hiddenwave have two python scripts. </p>
 <ul>
-<li>HiddenWave.py : for hide secret information.</li>
-<li>ExWave.py : for extract secret information for wave audio file.</li>
+<li><b>HiddenWave.py :</b> for hide secret information.</li>
+<li><b>ExWave.py :</b> for extract secret information for wave audio file.</li>
 </ul>
 
 ### Hide Secret Information in Audio file
