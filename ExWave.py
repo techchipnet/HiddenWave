@@ -1,6 +1,6 @@
 # HiddinWave Ver 1.0
 # Powered by TechChip
-# This is Secret Message Extractor
+# Secret Message Extractor
 import os
 import wave
 import argparse
