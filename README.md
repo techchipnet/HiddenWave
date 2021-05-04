@@ -32,5 +32,5 @@ python3 ExWave.py -f output.wav
 ```
 
 ### Video Demo
-[![How to control android camera](https://img.youtube.com/vi/G_nNHrWwCOM/0.jpg)](https://www.youtube.com/watch?v=G_nNHrWwCOM)
+[![How to control android camera](https://img.youtube.com/vi/UPQD7L9FNrk/0.jpg)](https://www.youtube.com/watch?v=UPQD7L9FNrk)
 #### For More Video subcribe <a href="http://youtube.com/techchipnet">TechChip YouTube Channel</a>
