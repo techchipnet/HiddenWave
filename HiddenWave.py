@@ -2,6 +2,7 @@
 # Powered by TechChip
 # Hide your secret text in wave audio file.
 import os
+From pyfiglet import figlet
 import wave
 import argparse
 parser = argparse.ArgumentParser()
