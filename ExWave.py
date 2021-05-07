@@ -119,8 +119,8 @@ def ex_msg(af):
 cls()
 banner()
 ex_msg(af)
-# try:
-#   ex_msg(af)
-# except:
-#   print ("Something went wrong!! try again")
-#   quit('')
+try:
+  ex_msg(af)
+except:
+  print ("Something went wrong!! try again")
+quit('')
